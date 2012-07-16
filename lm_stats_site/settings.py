@@ -106,6 +106,7 @@ ROOT_URLCONF = 'lm_stats_site.urls'
 WSGI_APPLICATION = 'lm_stats_site.wsgi.application'
 
 TEMPLATE_DIRS = (
+    '/Users/luiscberrocal/Documents/ws_38/lm_stats_site/templates'
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
